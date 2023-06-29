@@ -1,0 +1,42 @@
+dateModified: 1688063737
+email:
+  fromEmail: thorst@gmail.com
+  fromName: my-craft-project
+  transportType: craft\mail\transportadapters\Sendmail
+fs:
+  hardDisk:
+    hasUrls: true
+    name: 'Hard disk'
+    settings:
+      path: '@webroot/uploads/images'
+    type: craft\fs\Local
+    url: '@web/uploads/images'
+meta:
+  __names__:
+    0ce4894a-5a47-403d-8dca-5704c98fe3e0: Image # Image
+    3d53adea-3970-4dd0-a49f-8bea325ee87b: Text # Text
+    40a994a2-81ba-47d6-a157-a620a9429038: Image # Image
+    66fd081d-6b1c-4db4-b766-f759f444c911: Topics # Topics
+    74b8e9e9-169b-4eed-bdb1-2525baa59205: my-craft-project # my-craft-project
+    93b839a3-8aff-4d88-a8e2-a56db40a4024: Images # Images
+    290b352d-b9ea-484f-a5ff-061320df7b30: 'Post Categories' # Post Categories
+    515aaac0-ebb9-4a7e-acec-d4194f46c54c: 'Post Content' # Post Content
+    632c7824-24c9-4eef-8c12-fe0894437aef: 'Feature Image' # Feature Image
+    4382c47a-237d-400c-b6f9-48e0dd37232f: Text # Text
+    260660d3-bcf6-4d29-b70e-b20c62b3b7bd: Post # Post
+    c188ac46-2f1f-465b-8a22-35bf275de680: Common # Common
+    ed01e155-313a-401c-95df-b963208448ec: Summary # Summary
+    ed5feab2-4573-4902-8536-71624ba64adc: Blog # Blog
+    f8ecaa86-0abf-48bd-a4dd-c721bde38468: my-craft-project # my-craft-project
+system:
+  edition: solo
+  live: true
+  name: my-craft-project
+  schemaVersion: 4.4.0.4
+  timeZone: America/Los_Angeles
+users:
+  allowPublicRegistration: false
+  defaultGroup: null
+  photoSubpath: null
+  photoVolumeUid: null
+  requireEmailVerification: true

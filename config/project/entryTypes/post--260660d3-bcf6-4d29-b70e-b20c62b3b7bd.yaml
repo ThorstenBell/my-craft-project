@@ -1,0 +1,91 @@
+fieldLayouts:
+  73b612f9-9908-474f-9269-74d94a991e91:
+    tabs:
+      -
+        elementCondition: null
+        elements:
+          -
+            autocapitalize: true
+            autocomplete: false
+            autocorrect: true
+            class: null
+            disabled: false
+            elementCondition: null
+            id: null
+            instructions: null
+            label: null
+            max: null
+            min: null
+            name: null
+            orientation: null
+            placeholder: null
+            readonly: false
+            requirable: false
+            size: null
+            step: null
+            tip: null
+            title: null
+            type: craft\fieldlayoutelements\entries\EntryTitleField
+            uid: d8fe58ff-530e-4f4a-a143-587820aabba3
+            userCondition: null
+            warning: null
+            width: 100
+          -
+            elementCondition: null
+            fieldUid: 632c7824-24c9-4eef-8c12-fe0894437aef # Feature Image
+            instructions: null
+            label: null
+            required: false
+            tip: null
+            type: craft\fieldlayoutelements\CustomField
+            uid: e5e21010-0255-4020-8d54-89a1b1593735
+            userCondition: null
+            warning: null
+            width: 100
+          -
+            elementCondition: null
+            fieldUid: 290b352d-b9ea-484f-a5ff-061320df7b30 # Post Categories
+            instructions: null
+            label: null
+            required: false
+            tip: null
+            type: craft\fieldlayoutelements\CustomField
+            uid: 612fc55b-037c-4bcf-a2af-64d94ab0a5e3
+            userCondition: null
+            warning: null
+            width: 100
+          -
+            elementCondition: null
+            fieldUid: 515aaac0-ebb9-4a7e-acec-d4194f46c54c # Post Content
+            instructions: null
+            label: null
+            required: false
+            tip: null
+            type: craft\fieldlayoutelements\CustomField
+            uid: dc2e5375-c086-4c56-a272-0b9d4f1fc4c9
+            userCondition: null
+            warning: null
+            width: 100
+          -
+            elementCondition: null
+            fieldUid: ed01e155-313a-401c-95df-b963208448ec # Summary
+            instructions: null
+            label: null
+            required: false
+            tip: null
+            type: craft\fieldlayoutelements\CustomField
+            uid: be2a8b03-c3d1-4279-91e7-5afee5be2c18
+            userCondition: null
+            warning: null
+            width: 100
+        name: Content
+        uid: aacba7f3-141f-401e-a000-bf3ff57b1452
+        userCondition: null
+handle: post
+hasTitleField: true
+name: Post
+section: ed5feab2-4573-4902-8536-71624ba64adc # Blog
+sortOrder: 1
+titleFormat: null
+titleTranslationKeyFormat: null
+titleTranslationMethod: site

@@ -6,18 +6,27 @@
     <meta content="width=device-width, initial-scale=1.0" name="viewport">
 
     {% do craft.app.view.registerCssFile('@web/styles.css') %}
+    <style>
+        body {
+            background-color: {{ theme.backgroundColor.getHex() }};
+            color: {{ theme.textColor.getHex() }} !important;
+        }
+    </style>
 </head>
 <body>
 <header>
     <a class="home" href="{{ siteUrl }}">{{ siteName }}</a>
 
+    {# Get the first segment of the current URI: #}
+    {% set navSegment = craft.app.request.getSegment(1) %}
+
     <nav>
         <ul>
             <li>
-                <a href="{{ url('blog') }}">Blog</a>
+                <a href="{{ url('blog') }}" class="{{ navSegment == 'blog' ? 'active' : 'inactive' }}">Blog</a>
             </li>
             <li>
-                <a href="{{ url('about') }}">About</a>
+                <a href="{{ url('about') }}" class="{{ navSegment == 'about' ? 'active' : 'inactive' }}">About</a>
             </li>
         </ul>
     </nav>

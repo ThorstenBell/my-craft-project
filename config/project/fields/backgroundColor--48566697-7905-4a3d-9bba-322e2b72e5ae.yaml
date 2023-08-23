@@ -1,0 +1,12 @@
+columnSuffix: mjrxziqh
+contentColumnType: char(7)
+fieldGroup: d0c31c8e-bf02-4f84-9080-2ff2eead5298 # Global
+handle: backgroundColor
+instructions: null
+name: 'Background Color'
+searchable: false
+settings:
+  defaultColor: '#ffffff'
+translationKeyFormat: null
+translationMethod: none
+type: craft\fields\Color

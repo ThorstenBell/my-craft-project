@@ -1,0 +1,12 @@
+columnSuffix: avltbzrb
+contentColumnType: char(7)
+fieldGroup: d0c31c8e-bf02-4f84-9080-2ff2eead5298 # Global
+handle: textColor
+instructions: null
+name: 'Text Color'
+searchable: false
+settings:
+  defaultColor: '#000000'
+translationKeyFormat: null
+translationMethod: none
+type: craft\fields\Color

@@ -1,0 +1,19 @@
+columnSuffix: nnkcvglg
+contentColumnType: text
+fieldGroup: cb024ba9-32ce-448f-a6dd-b89b44c96d13 # About
+handle: bio
+instructions: null
+name: Bio
+searchable: false
+settings:
+  byteLimit: null
+  charLimit: null
+  code: false
+  columnType: null
+  initialRows: 8
+  multiline: true
+  placeholder: null
+  uiMode: normal
+translationKeyFormat: null
+translationMethod: none
+type: craft\fields\PlainText

@@ -1,0 +1,36 @@
+fieldLayouts:
+  96125afc-f271-4485-8baa-f73fd4cd9690:
+    tabs:
+      -
+        elementCondition: null
+        elements:
+          -
+            elementCondition: null
+            fieldUid: 48566697-7905-4a3d-9bba-322e2b72e5ae # Background Color
+            instructions: null
+            label: null
+            required: false
+            tip: null
+            type: craft\fieldlayoutelements\CustomField
+            uid: 65f36333-9e2b-4c10-a136-ff91ed45cecb
+            userCondition: null
+            warning: null
+            width: 100
+          -
+            elementCondition: null
+            fieldUid: 2712f5af-b2ce-49eb-9200-dfdce05741f5 # Text Color
+            instructions: null
+            label: null
+            required: false
+            tip: null
+            type: craft\fieldlayoutelements\CustomField
+            uid: 64a1970c-3a02-4104-b049-e614ddb94aa1
+            userCondition: null
+            warning: null
+            width: 100
+        name: Settings
+        uid: c0ae2971-98c7-47b2-afd4-f989b4726d5d
+        userCondition: null
+handle: theme
+name: Theme
+sortOrder: 2

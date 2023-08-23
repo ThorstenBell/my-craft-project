@@ -1,0 +1,19 @@
+columnSuffix: rqdatfwl
+contentColumnType: text
+fieldGroup: d0c31c8e-bf02-4f84-9080-2ff2eead5298 # Global
+handle: description
+instructions: null
+name: Description
+searchable: false
+settings:
+  byteLimit: null
+  charLimit: null
+  code: false
+  columnType: null
+  initialRows: 4
+  multiline: true
+  placeholder: null
+  uiMode: normal
+translationKeyFormat: null
+translationMethod: none
+type: craft\fields\PlainText

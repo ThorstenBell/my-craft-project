@@ -1,0 +1,12 @@
+defaultPlacement: end
+enableVersioning: true
+handle: about
+name: About
+propagationMethod: all
+siteSettings:
+  f8ecaa86-0abf-48bd-a4dd-c721bde38468: # my-craft-project
+    enabledByDefault: true
+    hasUrls: true
+    template: _singles\about.twig
+    uriFormat: about
+type: single

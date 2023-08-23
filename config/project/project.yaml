@@ -1,4 +1,4 @@
-dateModified: 1688063737
+dateModified: 1692816953
 email:
   fromEmail: thorst@gmail.com
   fromName: my-craft-project
@@ -15,25 +15,40 @@ meta:
   __names__:
     0ce4894a-5a47-403d-8dca-5704c98fe3e0: Image # Image
     3d53adea-3970-4dd0-a49f-8bea325ee87b: Text # Text
+    9cf58a7a-c65c-478e-9ccf-779f89926d54: Theme # Theme
     40a994a2-81ba-47d6-a157-a620a9429038: Image # Image
+    44d6b169-0704-4593-9b07-190054cc85bf: Description # Description
     66fd081d-6b1c-4db4-b766-f759f444c911: Topics # Topics
     74b8e9e9-169b-4eed-bdb1-2525baa59205: my-craft-project # my-craft-project
     93b839a3-8aff-4d88-a8e2-a56db40a4024: Images # Images
     290b352d-b9ea-484f-a5ff-061320df7b30: 'Post Categories' # Post Categories
     515aaac0-ebb9-4a7e-acec-d4194f46c54c: 'Post Content' # Post Content
+    559d46b4-0ece-4728-8ca9-41605fde40b2: About # About
     632c7824-24c9-4eef-8c12-fe0894437aef: 'Feature Image' # Feature Image
+    2712f5af-b2ce-49eb-9200-dfdce05741f5: 'Text Color' # Text Color
     4382c47a-237d-400c-b6f9-48e0dd37232f: Text # Text
     260660d3-bcf6-4d29-b70e-b20c62b3b7bd: Post # Post
+    2889711e-f4f3-4c6f-ad4f-a3f29c566feb: Thumbnail # Thumbnail
+    48566697-7905-4a3d-9bba-322e2b72e5ae: 'Background Color' # Background Color
+    a01140c9-933c-4615-9456-d5225f516e07: 'Profile Photo' # Profile Photo
     c188ac46-2f1f-465b-8a22-35bf275de680: Common # Common
+    c353e4f6-ec51-4e79-897c-d6aba52373a6: Quote # Quote
+    cb024ba9-32ce-448f-a6dd-b89b44c96d13: About # About
+    d0c31c8e-bf02-4f84-9080-2ff2eead5298: Global # Global
+    dc309778-9b55-4ab8-87a8-ab344eb18e5b: About # About
+    e9d9a4d3-aada-48b0-babc-f6dbbf6777b3: 'Site Info' # Site Info
+    ea09fb40-148e-4724-aadc-8ea407ba803d: Bio # Bio
     ed01e155-313a-401c-95df-b963208448ec: Summary # Summary
     ed5feab2-4573-4902-8536-71624ba64adc: Blog # Blog
     f8ecaa86-0abf-48bd-a4dd-c721bde38468: my-craft-project # my-craft-project
+    fdb18284-173f-4cd1-808e-a17baab76966: Quote # Quote
 system:
   edition: solo
   live: true
   name: my-craft-project
-  schemaVersion: 4.4.0.4
-  timeZone: America/Los_Angeles
+  retryDuration: null
+  schemaVersion: 4.5.0.3
+  timeZone: Europe/Amsterdam
 users:
   allowPublicRegistration: false
   defaultGroup: null
